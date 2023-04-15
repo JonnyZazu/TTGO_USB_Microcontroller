@@ -32,3 +32,5 @@ Keyboard.press('d');
 delay(500);
 
 Keyboard.release(KEY_LEFT_GUI);
+
+Keyboard.release('d');
